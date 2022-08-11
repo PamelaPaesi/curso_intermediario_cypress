@@ -1,3 +1,10 @@
+.DS_Store
+cypress.env.json
+cypress/screenshots/
+cypress/videos/
+node_modules/
+temp/
+
 # Logs
 logs
 *.log
